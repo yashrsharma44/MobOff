@@ -64,9 +64,9 @@ It is recommended that you use `virtualenv` (especially for `conda` users).
 
 ## GIFs to demonstrate the installation
 Installation of the dependencies
-![](/img/Peek1.gif?raw=true)
+![](/img/P1.gif?raw=true)
 Feeding the data, url for download. Ultimately, the links have been sent to your Computer and Android phone.
-![](/img/Peek2.gif?raw=true)
+![](/img/P2.gif?raw=true)
 ## Usage
 
 ### `moboff --help`
